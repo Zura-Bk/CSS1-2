@@ -1,0 +1,125 @@
+h1 {
+    font-size: 72px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.first {
+    display: inline-block;
+    text-align: left;
+    margin-left: 55px;
+    margin-bottom: 74px;
+}
+
+.first-sec {
+    width: 568px;
+    text-align: center;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 40px;
+    margin-top: 12px;
+    margin-bottom: 16px;
+}
+
+#night {
+    font-family: monospace;
+    font-size: 20px;
+    color: #414651;
+    margin-bottom: 16px;
+}
+
+#list1 {
+    font-family: monospace;
+    margin-left: auto;
+    font-size: 16px;
+    color: #155EEF;
+    width: 568px;
+    margin-bottom: 32px;
+}
+
+#more {
+    display: inline;
+    font-family: monospace;
+    font-size: 24px;
+    color: #CEA201;
+    padding: 12px 32px;
+    border: 3px solid #CEA201;
+}
+
+.second {
+    display: inline-block;
+    text-align: left;
+    margin-left: 55px;
+    width: 722px;
+}
+
+.second-sec {
+   text-align: center;                       /*ვიცი ალბათ სრული არეულობაა სხვაირად ზუსტი ზომები ვერ დავსვი*/
+}
+
+#biolum {
+    font-size: 20px;
+    font-family: monospace;
+    color: #414651;
+}
+
+h3 {
+    font-size: 20px;
+    color: #00C76E;
+    font-family: monospace;
+}
+
+.list2 {
+    text-align: center;
+}
+
+.list3 {
+    display: inline-block;
+    text-align: left;
+}
+
+#list4 {
+    font-size: 16px;
+    color: #FF5DA3;
+}
+
+#fairy {
+    text-align: left;
+    margin-bottom: 24px;
+}
+    
+.third {
+    width: 722px;
+    text-align: left;
+    margin-left: 55px;
+}
+
+.fourth {
+    background: #FFDEF0;
+    padding: 16px;
+    border: 6px solid #C11574;
+    margin-bottom: 24px;
+}
+
+h4 {
+    margin: 16px;
+    color: #414651;
+    font-family: monospace;
+    font-size: 24px;
+}
+
+ul {
+    font-size: 16px;
+    color: #C27512;
+    font-family: monospace;
+}
+
+#moreinfo {
+    font-family: monospace;
+    font-size: 24px;
+    color: #00D4BC;
+    text-decoration-line: underline;
+    text-align: right;
+}
